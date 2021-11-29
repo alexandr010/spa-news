@@ -1,0 +1,19 @@
+.article-img {
+  height: 250px;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.paper-article {
+  position: absolute;
+  top: 10px;
+}
+
+.link-btn {
+  color: black;
+  text-decoration: none;
+}
